@@ -1,6 +1,10 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-# Hello and Welcome! 🦕
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HELLO+guys!+👋;Welcome+TO+My+Github!&center=true&size=30"> 
+  </a>
+</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
 <div align="center">
 
