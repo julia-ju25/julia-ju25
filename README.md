@@ -26,7 +26,7 @@ useful for the end user. I also know various test design techniques that help ma
 * [hexlet_friends](https://github.com/julia-ju25/testing_hexlet_friends)
 
 
-## Tools and technologies
+### Tools and technologies
 
 
 <p align="left">
