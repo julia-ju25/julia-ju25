@@ -18,6 +18,7 @@ useful for the end user. I also know various test design techniques that help ma
     <img src="https://img.shields.io/badge/My%20CV-brightgreen?&logoColor=white&style=for-the-badge" alt="My CV"/>
   </a>
 </div>
+
 ## Tools and technologies
 
 
