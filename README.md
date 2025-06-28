@@ -60,5 +60,5 @@ useful for the end user. I also know various test design techniques that help ma
 
 ## Contacts
 
-[![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-khrapkova)
+[![Linkedin: ](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julia-khrapkova)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sa1ty_tea)
