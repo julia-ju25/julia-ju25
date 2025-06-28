@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+guys!+👋;Welcome+to+My+Github!&center=true&size=30"> 
   </a>
 </h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="280">
 
 <div align="center">
 
