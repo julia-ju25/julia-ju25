@@ -12,6 +12,7 @@ _I specialize in conducting various types of testing for many tasks. My job is t
 product, keep the documentation up to date, and do the testing itself. I like to improve the product and make it more
 useful for the end user. I also know various test design techniques that help make my work more productive and useful. At the moment I am diligently studying test automation and always strive to gather new knowledge._
 
+
 <div id="badges" align="center">
   <a href="https://drive.google.com/file/d/1Q21-dELzM3RDXH8wIO0ku6VA7YngBYkb/view?usp=drive_link">
     <img src="https://img.shields.io/badge/My%20CV-brightgreen?&logoColor=white&style=for-the-badge" alt="My CV"/>
