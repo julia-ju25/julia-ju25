@@ -19,6 +19,11 @@ useful for the end user. I also know various test design techniques that help ma
   </a>
 </div>
 
+## Portfolio
+[Online store project](https://github.com/julia-ju25/qa-engineer-project)
+[Codebattle project](https://github.com/julia-ju25/qa-engineer-project-85)
+
+
 ## Tools and technologies
 
 
